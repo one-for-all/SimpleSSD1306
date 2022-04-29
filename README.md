@@ -20,7 +20,7 @@ The code is largely distilled from the
 
     void setup()
     {
-    Serial.begin(115200);
+        Serial.begin(115200);
 
         // initialize OLED display with display voltage generated internally
         // and I2C address 0x3C
