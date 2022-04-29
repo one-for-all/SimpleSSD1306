@@ -1,6 +1,6 @@
-## Simple Arduino library for printing text to OLED with SSD1306 driver
+## Simple Arduino library for printing text on OLEDs with SSD1306 driver
 
-This is a simplified library that supports printing text on OLED with [SSD1306](https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf) driver.
+This is a simplified library that supports printing text on OLEDs with [SSD1306](https://cdn-shop.adafruit.com/datasheets/SSD1306.pdf) driver.
 
 The code is largely distilled from the
 [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306) library.
